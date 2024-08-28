@@ -1,0 +1,2 @@
+# sample-codes
+APPIMAGE IN SIMPLE FORMAT
