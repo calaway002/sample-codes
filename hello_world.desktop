@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=HelloWorldApp
+Comment=Prints Hello World and displays an image using OpenCV
+Exec=python3 /usr/bin/hello_world.py
+Icon=hello_world
+Terminal=true
+Type=Application
+Categories=Utility;
